@@ -8,8 +8,8 @@ theme = "hugo-story"
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
-#canonifyURLs = "true"
+relativeURLs = true
+canonifyURLs = true
 
 # Local
 baseURL = "/"
@@ -18,7 +18,6 @@ publishDir = "public"
 # Remote
 #baseURL = "https://chburrows.github.io/test_meg_site/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
-relativeURLs = true
 
 
 ## -----------------------------------------------
