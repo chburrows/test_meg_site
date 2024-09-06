@@ -12,11 +12,11 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+# baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+baseURL = "https://chburrows.github.io/test_meg_site/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
